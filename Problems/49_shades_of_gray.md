@@ -7,7 +7,7 @@ We only have 49 shades of gray D:
 ## Hint:
 How can we tell which color is which?
 
-![Shades]({{site.baseurl}}/Problems/shades.png)![shades.png]
+![Shades](/Problems/shades.png)
 
 ## Solution:
 My first instinct in this problem was to find an online tool that would list all colors in an image, however, I could not find one that gave a complete list, so I programmed my own (probably overcomplicated) tool in Java.
